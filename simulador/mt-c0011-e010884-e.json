@@ -1,0 +1,10 @@
+
+{ "ele" : "10884", "cdabr" : "mt", "nmabr" : "MATO GROSSO", "t" : "1", "f" : "s", "cdcar" : "11", "nmcar" : "Prefeito", "dg" : "23/07/2024", "hg" : "15:04:21", "abr" : [ 
+{ "dt" : "", "ht" : "", "tpabr" : "mu", "cdabr" : "89877", "nmabr" : "ALTA FLORESTA", "tvap" : "0", "scv" : "n", "esae" : "n", "mnae" : [  ], "cand" : [  ] }, 
+{ "dt" : "", "ht" : "", "tpabr" : "mu", "cdabr" : "90352", "nmabr" : "BARRA DO GARÇAS", "tvap" : "0", "scv" : "n", "esae" : "n", "mnae" : [  ], "cand" : [  ] }, 
+{ "dt" : "", "ht" : "", "tpabr" : "mu", "cdabr" : "90484", "nmabr" : "CAMPO NOVO DO PARECIS", "tvap" : "0", "scv" : "n", "esae" : "n", "mnae" : [  ], "cand" : [  ] }, 
+{ "dt" : "", "ht" : "", "tpabr" : "mu", "cdabr" : "99015", "nmabr" : "COMODORO", "tvap" : "0", "scv" : "n", "esae" : "n", "mnae" : [  ], "cand" : [  ] }, 
+{ "dt" : "", "ht" : "", "tpabr" : "mu", "cdabr" : "90670", "nmabr" : "CUIABÁ", "tvap" : "0", "scv" : "n", "esae" : "s", "mnae" : [ "Soma de votos de candidatos(as) com votação anulada ultrapassou 50% do total da votação nominal." ], "cand" : [  ] }, 
+{ "dt" : "", "ht" : "", "tpabr" : "mu", "cdabr" : "89800", "nmabr" : "CURVELÂNDIA", "tvap" : "0", "scv" : "n", "esae" : "n", "mnae" : [  ], "cand" : [ 
+{ "n" : "67", "sqcand" : "898001707227", "nm" : "CANDIDATO PREF 67", "nmu" : "CAND PREF 67", "sgp" : "P-1M", "com" : "P-1M / P-1X", "vap" : "30507", "seq" : "1", "vs" : [ 
+{ "tp" : "v", "sqcand" : "898001707228", "nm" : "VICE CANDIDATO VPREF 67", "nmu" : "VICE CAND VPREF 67", "sgp" : "P-1M" } ] } ] } ] }
